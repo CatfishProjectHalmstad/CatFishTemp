@@ -1,0 +1,2 @@
+angle of the camera 0 to 1
+brightness of the lamp 0 to 1

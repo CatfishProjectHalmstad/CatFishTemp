@@ -1,0 +1,2 @@
+bolean for if there is a leak in the system
+dissolved oxygen
